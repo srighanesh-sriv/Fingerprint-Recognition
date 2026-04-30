@@ -1,4 +1,4 @@
-![Fingerprint Recognition](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a3a5c&height=130&section=header&text=🔏%20Fingerprint%20Recognition%20—%20SIFT-Based%20Biometric%20Matching&fontSize=22&fontColor=58a6ff&animation=fadeIn)
+![Fingerprint Recognition](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a3a5c&height=130&section=header&text=🔏%20Fingerprint%20Recognition%20—%20SIFT Based%20Biometric%20Matching&fontSize=22&fontColor=58a6ff&animation=fadeIn)
 
 ![Accuracy](https://img.shields.io/badge/Match%20Accuracy-57.83%25-brightgreen?style=flat-square)
 ![Dataset](https://img.shields.io/badge/Dataset-SOCOFing-blue?style=flat-square)
