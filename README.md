@@ -33,11 +33,11 @@
 
 Fingerprint Detection refers to the automated method of identifying or verifying a match between two human fingerprints. It is one of the most well-known biometrics and by far the most used biometric solution for authentication on computerised systems.
 
-Fingerprint scanners work by capturing the pattern of ridges and valleys on a finger. The system first goes through an **enrollment** phase where it learns all enrolled individuals, then a **verification** phase where a live scan is matched against the stored database.
+Fingerprint scanners work by capturing the pattern of ridges and valleys on a finger. The system first goes through an enrollment phase where it learns all enrolled individuals, then a verification phase where a live scan is matched against the stored database.
 
-This project addresses a core real-world challenge: **matching low-quality or blurred fingerprints** captured by low-cost acquisition devices — where most commercial systems fail. Using SIFT (Scale-Invariant Feature Transform) and FLANN-based matching, the system compares an altered (degraded) query fingerprint against up to 1000 real fingerprint images and identifies the best match by keypoint score.
+This project addresses a core real-world challenge: matching low-quality or blurred fingerprints captured by low-cost acquisition devices, where most commercial systems fail. Using SIFT and FLANN-based matching, the system compares an altered (degraded) query fingerprint against up to 1000 real fingerprint images and identifies the best match by keypoint score.
 
-**Key differentiator:** The system is explicitly designed to handle degraded, blurred, and low-resolution input images — the exact conditions where traditional minutiae-based matchers break down.
+**Key differentiator:** The system is explicitly designed to handle degraded, blurred, and low-resolution input images, the exact conditions where traditional minutiae-based matchers break down.
 
 ---
 
@@ -319,7 +319,7 @@ This project demonstrates that **SIFT with FLANN-based matching is a viable appr
 ## Author
 
 **Srighanesh A S**
-B.Tech ECE — SRM Institute of Science and Technology (CGPA 9.35)
+B.Tech ECE - SRM Institute of Science and Technology
 Market Analyst @ Siemens, Chennai
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Srighanesh-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/srighaneshsrivathsan)
