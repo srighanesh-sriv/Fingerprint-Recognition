@@ -1,4 +1,5 @@
 ![Fingerprint Recognition](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a3a5c&height=130&section=header&text=🔏%20Fingerprint%20Recognition%20—%20SIFT-Based%20Biometric%20Matching&fontSize=22&fontColor=58a6ff&animation=fadeIn)
+
 ![Accuracy](https://img.shields.io/badge/Match%20Accuracy-57.83%25-brightgreen?style=flat-square)
 ![Dataset](https://img.shields.io/badge/Dataset-SOCOFing-blue?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -7,7 +8,7 @@
 
 # Fingerprint Recognition — SIFT-Based Biometric Matching System
 
-> Automated fingerprint identification using Scale-Invariant Feature Transform(SIFT) keypoint matching on the SOCOFing dataset. Handles low-quality and blurred fingerprint images, scanning up to 1000 real fingerprints to find the best match against an altered (degraded) query image.
+> Automated fingerprint identification using SIFT keypoint matching on the SOCOFing dataset. Handles low-quality and blurred fingerprint images, scanning up to 1000 real fingerprints to find the best match against an altered (degraded) query image.
 
 ---
 
