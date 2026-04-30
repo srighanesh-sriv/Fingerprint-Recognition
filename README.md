@@ -292,6 +292,34 @@ The exact result is displayed along with the matched fingerprint image by compar
 
 The system successfully identifies the correct fingerprint identity from a heavily blurred, obliquely-altered query image, demonstrating robustness in real-world low-quality acquisition scenarios.
 
+1. Highest Match Score (System Output)
+
+This shows the final result after scanning ~1000 fingerprint images.  
+The system identifies the best match along with the computed similarity score.
+
+<p align="center">
+  <img src="screenshots/highest_score.png" width="700"/>
+</p>
+
+- **Best Match:** `150__M_Right_index_finger.BMP`  
+- **Score:** ~57.14 – 57.83  
+- **Observation:** Correct identity retrieved despite heavy degradation  
+
+---
+
+### 2. Visual Match (Keypoint Comparison)
+
+This visualization shows the correspondence between the query (altered fingerprint) and the matched real fingerprint using SIFT keypoints.
+
+<p align="center">
+  <img src="screenshots/match_visualization.png" width="700"/>
+</p>
+
+- Left: **Altered (query) fingerprint**  
+- Right: **Best matched real fingerprint**  
+- Lines: **SIFT keypoint correspondences**  
+- Interpretation: Higher number of consistent matches → higher similarity score  
+
 ---
 
 ## Conclusion
