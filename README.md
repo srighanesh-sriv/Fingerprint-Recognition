@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/IEEE%20Standards-P2830%20%7C%20P2841-blue?style=flat-square" />
 </p>
     
-# Fingerprint Recognition — SIFT-Based Biometric Matching System
+# Fingerprint Recognition — SIFT Based Biometric Matching System
 
 > Automated fingerprint identification using SIFT keypoint matching on the SOCOFing dataset. Handles low-quality and blurred fingerprint images, scanning up to 1000 real fingerprints to find the best match against an altered (degraded) query image.
 
