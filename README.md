@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Match%20Accuracy-57.83%25-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Dataset-SOCOFing-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-4.x-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
