@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a3a5c&height=130&section=header&text=🔏%20Fingerprint%20Recognition%20—%20SIFT Based%20Biometric%20Matching&fontSize=22&fontColor=58a6ff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a3a5c&height=130&section=header&text=🔏%20Fingerprint%20Recognition%20—%20SIFT%20Based%20Biometric%20Matching&fontSize=22&fontColor=58a6ff&animation=fadeIn" />
 </p>
 
 <p align="center">
