@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![IEEE](https://img.shields.io/badge/IEEE%20Standards-P2830%20%7C%20P2841-blue?style=flat-square)
-<p>
+</p>
     
 # Fingerprint Recognition — SIFT-Based Biometric Matching System
 
