@@ -1,11 +1,11 @@
 ![Fingerprint Recognition](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a3a5c&height=130&section=header&text=🔏%20Fingerprint%20Recognition%20—%20SIFT-Based%20Biometric%20Matching&fontSize=22&fontColor=58a6ff&animation=fadeIn)
 
 <p align="center">
-![Accuracy](https://img.shields.io/badge/Match%20Accuracy-57.83%25-brightgreen?style=flat-square)
-![Dataset](https://img.shields.io/badge/Dataset-SOCOFing-blue?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![IEEE](https://img.shields.io/badge/IEEE%20Standards-P2830%20%7C%20P2841-blue?style=flat-square)
+  <img src="https://img.shields.io/badge/Match%20Accuracy-57.83%25-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Dataset-SOCOFing-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-4.x-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/IEEE%20Standards-P2830%20%7C%20P2841-blue?style=flat-square" />
 </p>
     
 # Fingerprint Recognition — SIFT-Based Biometric Matching System
