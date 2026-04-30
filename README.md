@@ -347,8 +347,8 @@ This project demonstrates that **SIFT with FLANN-based matching is a viable appr
 ## Author
 
 **Srighanesh A S**
-B.Tech ECE - SRM Institute of Science and Technology
-Market Analyst @ Siemens, Chennai
+- B.Tech ECE - SRM Institute of Science and Technology
+- Market Analyst @ Siemens, Chennai
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Srighanesh-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/srighaneshsrivathsan)
 [![Email](https://img.shields.io/badge/Email-srighanesh.sriv%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:srighanesh.sriv@gmail.com)
