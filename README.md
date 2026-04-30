@@ -292,7 +292,7 @@ The exact result is displayed along with the matched fingerprint image by compar
 
 The system successfully identifies the correct fingerprint identity from a heavily blurred, obliquely-altered query image, demonstrating robustness in real-world low-quality acquisition scenarios.
 
-1. Highest Match Score (System Output)
+### 1. Highest Match Score (System Output)
 
 This shows the final result after scanning ~1000 fingerprint images.  
 The system identifies the best match along with the computed similarity score.
