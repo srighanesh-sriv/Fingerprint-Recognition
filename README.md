@@ -8,7 +8,7 @@
 
 # Fingerprint Recognition — SIFT-Based Biometric Matching System
 
-> Automated fingerprint identification using SIFT keypoint matching on the SOCOFing dataset. Handles low-quality and blurred fingerprint images, scanning up to 1000 real fingerprints to find the best match against an altered (degraded) query image.
+> Automated fingerprint identification using Scale-Invariant Feature Transform(SIFT) keypoint matching on the SOCOFing dataset. Handles low-quality and blurred fingerprint images, scanning up to 1000 real fingerprints to find the best match against an altered (degraded) query image.
 
 ---
 
